@@ -8,4 +8,4 @@ categories: jekyll update
 # Prova articolo da iPad
 
 ## Sottotitolo
-Testo di prova dell’articolo
+Testo di prova dell’articolo modificato da iPad
